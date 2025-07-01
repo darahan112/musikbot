@@ -1,4 +1,4 @@
-pyrogram==3.0.2
+git+https://github.com/Zamssprprpk/Kutip
 pytgcalls==2.2.4
 yt-dlp
 aiohttp
