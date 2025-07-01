@@ -1,4 +1,4 @@
-pyrogram==2.0.106
+git+https://github.com/Zamssprprpk/Kutip
 tgcrypto
 PyTgCalls==2.2.4
 yt-dlp
