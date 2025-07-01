@@ -1,5 +1,5 @@
 git+https://github.com/Zamssprprpk/Kutip
 tgcrypto
-PyTgCalls==2.2.4
+py-tgcalls==2.0.2
 yt-dlp
 aiohttp
