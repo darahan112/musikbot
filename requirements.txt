@@ -1,5 +1,5 @@
 git+https://github.com/Zamssprprpk/Kutip
-git+https://github.com/pytgcalls/pytgcalls
+pytgcalls==2.1.0
 yt-dlp
 aiohttp
 ffmpeg-python
