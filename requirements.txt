@@ -23,4 +23,3 @@ events
 register
 python-arq
 gTTS
-googletrans==4.0.0rc1
